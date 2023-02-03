@@ -1,4 +1,4 @@
-# Un listado de comandos basicos de commad prompt
+# Un listado de comandos basicos de command prompt
 
  ## Aquí te mostraremos una lista de comandos básicos para usar Command Prompt. 
 
@@ -16,7 +16,7 @@ Par buscar Command Prompt tenemos 3 opciones:
 Vamos a mostrar una lista de los comandos más utilizados en CMD.
 Así podrás moverme con facilidad a diferentes directorios y crearlos.
 
-- CD: Sirve para cambiar de directorio, utilizando la formula “cd <rutadirectorio>”, esto es par ir al directorio o carpeta que le indiques
+- CD: Sirve para cambiar de directorio, utilizando la formula *“cd < ruta directorio >”*, esto es par ir al directorio o carpeta que le indiques
 - CD.. : Este se usa para salir de un carpeta y volver hacia atrás, o ir a la carpeta donde estaba alojada el directorio.
 - DIR: Este comando te muestra todas las carpetas o directorios que incluye el lugar donde estás o carpeta donde están, dicho de otra forma muestra el contenido de esa carpeta. Aquí puedes ver si lo que estás buscando se encuentra en dicha carpeta. 
 - TREE CARPETA: Este muestra el árbol de directorios de una carpeta concreta que le digas.
